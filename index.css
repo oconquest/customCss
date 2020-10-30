@@ -122,23 +122,12 @@ position:fixed;
 
 width:100vw;
 
-height:3em; 
-
-background-color:#FF3E4D;
+height:3.5em; 
 
 top:0em;
 
 left:0em;
 
-border-width:0.2px;
-
-border-left-color:none;
-
-border-right-color:none;
-
-border-bottom-color:#dcdcdc;
-
-border-top-color:rgb(34,34,43);
 
 }
 
@@ -148,23 +137,11 @@ position:fixed;
 
 width:100vw;
 
-height:3em; 
-
-background-color:#FF3E4D;
+height:3.5em; 
 
 bottom:0em;
 
 left:0em;
-
-border-width:0.2px;
-
-border-left-color:none;
-
-border-right-color:none;
-
-border-bottom-color:#dcdcdc;
-
-border-top-color:rgb(34,34,43);
 
 }
 
